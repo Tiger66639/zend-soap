@@ -1,7 +1,6 @@
 # zend-soap
 
-[![Build Status](https://secure.travis-ci.org/zendframework/zend-soap.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-soap)
-[![Coverage Status](https://coveralls.io/repos/zendframework/zend-soap/badge.svg?branch=master)](https://coveralls.io/r/zendframework/zend-soap?branch=master)
+[![Build Status](https://travis-ci.org/Tiger66639/zend-soap.svg)](https://travis-ci.org/Tiger66639/zend-soap)
 
 `Zend\Soap` is a component to manage the [SOAP](http://en.wikipedia.org/wiki/SOAP)
 protocol in order to design client or server PHP application.
